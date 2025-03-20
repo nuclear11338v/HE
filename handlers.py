@@ -6,7 +6,7 @@ import time
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 import os
 
-bot = telebot.TeleBot("7690937386:AAG5BY6X4nzbz0jmtAWxVYWsFSFxW7tV6IE")
+bot = telebot.TeleBot("7604986031:AAEiNS1N1oMDDtQZmi5B0rl2dSVDfu3lGEs")
 
 def requires_channel(func):
     def wrapper(message):
