@@ -1,0 +1,19 @@
+{
+    "users": {
+        "7858368373": {
+            "approved": true,
+            "attack_count": 3,
+            "limit": 5,
+            "last_attack": 1742504665.5108726,
+            "cooldown": 300
+        }
+    },
+    "admins": [
+        "7858368373"
+    ],
+    "attacks": [],
+    "stats": {
+        "total_attacks": 0,
+        "blocked_attempts": 0
+    }
+}
